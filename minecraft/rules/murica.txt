@@ -1,0 +1,1 @@
+<hover:show_text:"<white>Click here to be <yellow>enlightened</yellow> by <green>'Murica - Fuck Yeah</green></white>"><click:open_url:"https://www.youtube.com/watch?v=5uPoDNEn3I0"><aqua><underlined>'murica, fuck yeah</underlined></aqua>
