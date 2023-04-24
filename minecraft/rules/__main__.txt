@@ -1,0 +1,8 @@
+<bold><red>American</red><white>Flag</white></bold><dark_gray>In</dark_gray><bold><blue>Place</blue> <gold>Minecraft Server Rules Page:</gold>
+<aqua>1)</aqua> <white>No using game mechanics not intended by Minecraft or AFIP developers unless the modification counts as one of the following:
+      <aqua>a)</aqua> <green>Allowed Modifications:</green> Full Bright, Minimap, Performance Enhancing Mods, or Farsight or its derivatives
+      <aqua>b)</aqua> <red>Disallowed Modifications:</red> X-ray, Baritone, Combat Advantages, or Chat Abuses
+      <aqua>c)</aqua> Moderators may decide if a modification is at the disadvantage of other players at their discretion
+      
+<gray><italics>By joining this server, you agree to these rules and to follow them and acknowledge the failing to do so can lead to account suspension from our server.</italics></gray>
+<gray><italics>The rules can change at any point, please keep yourself up-to-date!</italics></gray>
