@@ -6,5 +6,5 @@
       <aqua>a)</aqua> <green>Allowed Modifications:</green> Full Bright, Minimap, Performance Enhancing Mods, or Farsight or its derivatives
       <aqua>b)</aqua> <red>Disallowed Modifications:</red> X-ray, Baritone, Combat Advantages, or Chat Abuses
       <aqua>c)</aqua> Moderators may decide if a modification is at the disadvantage of other players at their discretion
-<aqua>2)</aqua> <white>No using alternate accounts or proxied connections to bypass a punishment, whether that be a ban, mute, warning, or otherwise.
+<aqua>2)</aqua> <white>No using alternate accounts or proxied connections for any purposes whatsoever, including to bypass punishments.
 <aqua>3)</aqua> <white>All server rules from <hover:show_text:"<yellow>Click here to join <aqua>American Flag In Place - Discord</aqua>!</yellow>"><click:open_url:"https://discord.gg/afip"><aqua><underlined>our Discord server</underlined></aqua></click></hover> also apply to the Minecraft server. This includes, but is not limited to, chat infractions and Rule #5.
