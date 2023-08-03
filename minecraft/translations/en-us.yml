@@ -1,0 +1,89 @@
+lang:
+  meta:
+    title:
+      short: "en-us"
+      expanded: "English, US"
+    continent: "North America"
+    default: true
+    authors: ["CyberedCake"]
+    faction: "r/AmericanFlagInPlace"
+  generic:
+    and: "and"
+    teleporting:
+      waiting: "&7&oTeleporting you to {0}, please stand still..."
+      moved: "&cYou must stay still to teleport. Teleportation cancelled."
+      error: "&cAn internal error occurred while trying to teleport you. Report this to a staff member & try again later."
+      current: "&cYou are already teleporting to a location, please wait for that to be completed or to get cancelled!"
+      success: "&6You teleported {0} to your home named &a{1}&6!"
+    invalid:
+      usage: "&cInvalid usage! &7{0}"
+  bundled:
+    combat:
+      commands:
+        noCombat: "&cYou are not currently in combat!"
+        inCombat: "&fYou are in combat for &b{0} seconds &8({1} ticks) &fwith {2}&f!"
+      teleport: "&cYou cannot teleport anywhere while in combat!"
+      cannot: "&cYou cannot {0} while in combat!"
+      logout: "&4&l☠ &6{0} &ecombat-logged against &6{1}"
+      restarting: "&cYou are not engaging in combat because the server is restarting soon!"
+      bossbar: "&fYou are in combat for &b{0} seconds &fwith &c{1}&f!"
+    homes:
+      noneSet: "&cYou don't have any homes set."
+      list:
+        title: "&6&lYOUR HOMES: &7({0}/{1})"
+        line:
+          text: "{0}"
+          hover:
+
+      commands:
+        delhome:
+          tooEarly: "&cYou can't delete that home yet. Please allow it to exist for at least &6{0} more {1:plural:second|s}!"
+          cancelled: "&cYou cancelled the deletion of the home {0}&c!"
+          success:
+            class: TranslationTextMeta
+            text: "&aYou successfully deleted the home with name &6{0} &aat &d&n{1}&6!"
+            hover:
+              shownText: "this location"
+              hoverText: |-
+                &6{0}'s Location:
+                &f{1}
+          menu:
+            title: "DELETE HOME: {0}"
+            confirm:
+              text: "&a&lCONFIRM!"
+              description: "&7Confirm and delete the home named &e{0}&7!"
+            cancel:
+              text: "&c&lCANCEL!"
+              description: "&7Cancel and keep the home named &e{0}&7!"
+        sethome:
+          maximum: "&cYou cannot create any more homes! &7Delete some with &8/delhome <home>&7."
+          cooldown: "&cYou cannot create another home for &6{0}&c!"
+          alreadyExists: "&cYou already have a home with that name!"
+          created:
+            class: TranslationTextMeta
+            text: "&6You set a new home named &b{0} &6to &d&n{0}&6!"
+            hover:
+              shownText: "your location"
+              hoverText: |-
+                &6Your Location:
+                &f{0}
+          invalid:
+            characters: "&cInvalid characters in home name! &7Must be {0}"
+            tooLong: "&cHome name is too long! &7Try keeping it {0} characters or under."
+            tooShort: "&cHome name is too short! &7Try keeping it {0} characters or more."
+    playtime:
+      commands:
+        playtime:
+          error:
+            generic: "&cAn error occurred: &8{0}"
+            specificUser:
+              class: TranslationTextMeta
+              text: "&cAn error occurred obtaining the playtime of {0} &8({1}, {2})&c, try again later. &e&o(click here to copy error code)"
+              hover:
+                useEntireText: true
+                hoverText: "&c&lEXCEPTION: &8{0}"
+              click:
+                useEntireText: true
+                action: "COPY_TO_CLIPBOARD"
+                execute: "EXCEPTION: {0}"
+          neverLoggedOn: "&cThat player has never logged on!"
