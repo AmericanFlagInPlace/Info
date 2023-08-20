@@ -1,7 +1,7 @@
 <gray><italic>By joining this server, you agree to these rules and to follow them and acknowledge the failing to do so can lead to account suspension from our server.</italic></gray>
 <gray><italic>The rules can change at any point, please keep yourself up-to-date!</italic></gray>
 
-<underlined><bold><red>American</red><white>Flag</white></bold><dark_gray>In</dark_gray><bold><blue>Place</blue> <gold>Minecraft Server Rules Page:</gold></underlined>
+<underlined><bold><white><<gold>Minecraft Server Rules Page:</gold></underlined>
 <aqua>1)</aqua> <white>No using game mechanics not intended by Minecraft or AFIP developers unless the modification counts as one of the following:
       <aqua>a)</aqua> <green>Allowed Modifications:</green> Full Bright, Minimap, Performance Enhancing Mods, Litematica, or Farsight or its derivatives
       <aqua>b)</aqua> <red>Disallowed Modifications:</red> X-ray, Baritone, Combat Advantages, Bots, or Chat Abuses
@@ -9,5 +9,5 @@
 <aqua>2)</aqua> <white>No using alternate accounts or proxied connections for any purposes whatsoever, including to bypass punishments.
 <aqua>3)</aqua> <white>All server rules from <hover:show_text:"<yellow>Click here to join <aqua>American Flag In Place - Discord</aqua>!</yellow>"><click:open_url:"https://discord.gg/afip"><aqua><underlined>our Discord server</underlined></aqua></click></hover> also apply to the Minecraft server. This includes, but is not limited to, chat infractions and <hover:show_text:"<bold>5. Respect Everyone</bold><newline><italic>Everyone including mods are human<newline>Treat everyone how you want to be treated<newline>If you have a problem with a specific user or mod, do not express it in the server, DM a mod<newline>Bigotry of any type including but not limited to: sexism, racism, ableism, and homophobia, is NOT TOLERATED<newline>Violations depending on severity could lead to a mute or ban</italic>"><yellow><underlined>Rule #5</underlined></yellow></hover>.
 <aqua>4)</aqua> <white>Griefing is not allowed. This rule is very subject to change within the first week of the server release. Check again September 1st for a likely-updated rule.</white>
-<aqua>5)</aqua> <white>Do not kill any chickens in the chicken hole. Results in <red>a permanent ban</red>.
+<aqua>5)</aqua> <white>Do not kill any chickens in the chicken hole at spawn. Results in <red>a permanent ban</red>.
       <gray><italic>For legal reasons, that's a joke.</italic></gray>
