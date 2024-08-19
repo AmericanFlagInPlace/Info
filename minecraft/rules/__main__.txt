@@ -1,7 +1,7 @@
 <gray><italic>By joining this server, you agree to these rules and to follow them and acknowledge the failing to do so can lead to account suspension from our server.</italic></gray>
 <gray><italic>The rules can change at any point, please keep yourself up-to-date!</italic></gray>
 
-<underlined><bold><white><<gold>Minecraft Server Rules Page:</gold></underlined>
+<underlined><bold><white><gold>Minecraft Server Rules Page:</gold></underlined>
 <aqua>1)</aqua> <white>No using game mechanics not intended by Minecraft or AFIP developers unless the modification counts as one of the following:
       <aqua>a)</aqua> <green>Allowed Modifications:</green> Full Bright, Minimap, Performance Enhancing Mods, Litematica, or Farsight or its derivatives
       <aqua>b)</aqua> <red>Disallowed Modifications:</red> X-ray, Baritone, Combat Advantages, Bots, or Chat Abuse Modifications
