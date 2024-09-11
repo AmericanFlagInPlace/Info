@@ -7,8 +7,8 @@
       <aqua>b)</aqua> <red>Examples of Disallowed Modifications:</red> X-ray, Baritone, Combat Advantages, Bots, Litematica (using autoplace), or Chat Abuse Modifications
       <aqua>c)</aqua> Moderators may decide if a modification is at the disadvantage of other players at their discretion.
 <dark_aqua>2)</dark_aqua> <gray>No using alternate accounts or proxied connections for any purposes whatsoever, including to bypass punishments.
-<aqua>3)</aqua> <white>Do not disrupt spawn chunks or disrupt the natural landscape near or around spawn.</white>
-<dark_aqua>4)</dark_aqua> <gray>Do not harass or otherwise consistently bully other players, this includes -- but is not limited to -- consistently spawn-killing, attacking users in chat, or placing hits on other users.</white>
+<aqua>3)</aqua> <white>Do not disrupt spawn chunks or disrupt the natural landscape near or around spawn.
+<dark_aqua>4)</dark_aqua> <gray>Do not harass or otherwise consistently bully other players, this includes -- but is not limited to -- consistently spawn-killing, attacking users in chat, or placing hits on other users.
 <aqua>5)</aqua> <white>Any kind of duper, such as those of TNT or carpet, or exploit machines are not allowed to be constructed and creators may be subject to a ban.
 <dark_aqua>6)</dark_aqua> <gray>Using or bypassing clan name and text filters may result in the clan being punished, which could include removal of the name, disabling of certain features, or disbanding the clan and ban from the clan system as a whole.
 <aqua>7)</aqua> <white>Seed-cracking or using the seed in biome finders (or similar software) is strictly prohibited and may result in a ban.
